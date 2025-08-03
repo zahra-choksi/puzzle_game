@@ -70,14 +70,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 You can download and try the game:
 
-➡️ [**Download APK**]![puzzle_game(app-release.apk)
+➡️ [**Download APK**](build/app/outputs/flutter-apk/app-release.apk)
 
-
-## 🎥 Gameplay Demo
-
- ![puzzle_game](game.mp4)
-
-Or view it directly:
    
     
 
